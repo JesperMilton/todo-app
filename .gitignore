@@ -1,0 +1,7 @@
+frontend/node_modules/
+
+vendor
+
+**/.env
+
+client_secret.json
